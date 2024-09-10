@@ -1,8 +1,8 @@
-import klipclub from '../public/klipclub.jpg'
-import imagenA from '../public/A.jpg'
-import imagenB from '../public/b.jpg'
-import imagenC from '../public/c.jpg'
 
+import imagenA from '../images/A.jpg'
+import imagenB from '../images/b.jpg'
+import imagenC from '../images/c.jpg'
+import klipclub from '../images/klipclub.jpg'
 
 
 function SectionOne() {

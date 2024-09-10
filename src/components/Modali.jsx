@@ -1,5 +1,5 @@
 import {useState} from 'react'
-import klipclub from '../public/klipclub.jpg'
+import klipclub from '../images/klipclub.jpg'
 
 function Modali() {
 const[isOpen, setIsOpen]=useState(true)

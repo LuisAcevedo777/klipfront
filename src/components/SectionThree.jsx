@@ -1,3 +1,4 @@
+import klipclub from '../images/klipclub.jpg'
 import Carousel from 'react-bootstrap/Carousel';
 import { Badge } from 'react-bootstrap';
 import { useState} from 'react';
@@ -5,7 +6,7 @@ import { useForm } from 'react-hook-form';
 import PostList from './PostList'
 import axios from 'axios'
 
-import klipclub from '../public/klipclub.jpg'
+
 
 
 
@@ -55,9 +56,9 @@ function SectionThree() {
             <div className='imgForm2'>
       
            <div className={seeArea ? 'accordion' : 'littleAccordion'} id="accordionExample" onMouseLeave={() => { seeForm(false) }} >
-  <div className="accordion-item" >   {/*className=seeArea ? 'seeFormDivP' : 'littleAccordionItem'*/}
+  <div className="accordion-item" >   
     <h2 className="accordion-header">
-    <div  className={seeArea ? 'collapseOnes' : 'accordion-buttons'}> <img className={seeArea ? 'hide' : 'imgKlipForm'} src={klipclub} alt="image" />
+    <div  className={seeArea ? 'collapseOnes' : 'accordion-buttons'}> <img className='imgKlipForm' src={klipclub} alt="image" />
     <div  className="divText" onMouseOver={()=>seeForm(true)}>
        {seeArea ? '' : 'What are you thinking?'}
       </div></div>
@@ -66,7 +67,7 @@ function SectionThree() {
       <div className="accordion-body">
        <img className='imgKlipForm' src={klipclub} alt="image" />
 
-      <form action="" className='form' /*onSubmit={handleSubmit(subChange)*/ encType='multipart/form-data' onSubmit={handleSubmit(onSubmit)}>
+      <form action="" className='form'  encType='multipart/form-data' onSubmit={handleSubmit(onSubmit)}>
         <input type='text-Area' id='mensaje' name='mensaje'  className={seeArea ? 'seeFormTextArea' : 'textArea'} placeholder={seeArea ? 'Dale Doble Click aquí para ocultar!' : 'What are you thinking?'}  {...register('mensaje')} />
         <div className={seeArea ? 'seeFormDiv' : 'hide'}>
             <div className='inputFiles'>
@@ -74,7 +75,7 @@ function SectionThree() {
               <label className='btnAgregar' htmlFor="archivos">Agregar</label>
               <label htmlFor="archivos"><i className="fa-regular fa-image"></i></label>
               <label htmlFor="archivos"><i className="fa-regular fa-circle-play"></i></label>
-              <label htmlFor="archivos"><i className="fa-solid fa-microphone-lines"></i></label>
+              <label htmlFor="archivos"><i className="fa-solid fa-microphone"></i></label>
               <label htmlFor="archivos"><i className="fa-regular fa-tags"></i></label>
             </div><div><select name="transporte" className="select">
 

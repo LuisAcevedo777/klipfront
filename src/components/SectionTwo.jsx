@@ -1,9 +1,9 @@
 import Carousel from 'react-bootstrap/Carousel';
-import imagenA from '../public/A.jpg'
-import imagenB from '../public/b.jpg'
-import imagenC from '../public/c.jpg'
-import imagenK from '../public/k.jpg'
-import imagenH from '../public/h.jpg'
+import imagenA from '../images/A.jpg'
+import imagenB from '../images/b.jpg'
+import imagenC from '../images/c.jpg'
+import imagenK from '../images/k.jpg'
+import imagenH from '../images/h.jpg'
 
 
 function SectionTwo() {

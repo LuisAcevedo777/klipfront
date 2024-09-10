@@ -1,4 +1,4 @@
-import klipclub from '../public/klipclub.jpg'
+import klipclub from '../images/klipclub.jpg'
 function Footer() {
  
 
