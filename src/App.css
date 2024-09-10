@@ -1,11 +1,11 @@
-@import './footer.css';
-@import './loader.css';
-@import './/modal.css';
-@import './navbarC.css';
-@import './postList.css';
-@import './sectionOne.css';
-@import './sectionThree.css';
-@import './sectionTwo.css';
+@import '../styles/footer.css';
+@import '../styles/loader.css';
+@import '../styles/modal.css';
+@import '../styles/navbarC.css';
+@import '../styles/postList.css';
+@import '../styles/sectionOne.css';
+@import '../styles/sectionThree.css';
+@import '../styles/sectionTwo.css';
 
 
 #root {
