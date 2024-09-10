@@ -1,0 +1,163 @@
+.containerSectionTwo{
+
+    background-color: black;
+    width: 100%;
+    height: 60rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.containerSection2Two{
+    background-color: transparent;
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     
+}
+
+
+
+.carouselTwo{
+
+    width: 100%;
+    height: 100%;
+    background-color: black;;
+    
+    }
+    #divPrincipalTitle{
+    
+       
+        width: 100%;
+       }
+
+    .section2TitleTwo{
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .carouselItemTwo{
+        width: 100%;
+         height: 30rem;
+         margin-top: 1rem;
+         background-color: transparent;
+         
+         
+    }
+
+
+    .carouselItem2Two{
+
+background-color: transparent;
+width: 100%;
+height: 100%;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+
+    }
+
+    .containerDivImg{
+       
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 30%
+
+}
+
+.divImgTwo{
+    
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+     background-color: transparent;
+     position: relative;
+}
+
+    .imgcarouselTwo{
+        border-radius: 1rem;
+        width:  90%;
+        height: 70%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: transparent;
+
+     }
+
+     .divBottonImg{
+    
+       background-color:transparent;
+        width: 100%;
+       }
+
+     h3.subtitleImgage{
+         color: white;
+        font-size: 50%;
+        flex-wrap: wrap;
+     }
+     .tags{
+      
+        width: 100%;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+     }
+     
+
+     .tag{
+        background-color: rgb(61, 59, 56);
+        color: white;
+        font-size: 10px;
+        border-radius: 40px;
+        height: 10%;
+        width:27%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+     }
+    
+     .tagCont{
+background-color:transparent;
+width: 90%;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+     }
+
+     
+.liveTwo{
+    position: absolute;
+    width: 15%;
+    height: 10%;
+    border-radius: 40px;
+    background-color: rgb(248, 89, 235);
+    color: white;
+    top: 0;
+    right: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}

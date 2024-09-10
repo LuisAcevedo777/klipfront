@@ -1,0 +1,216 @@
+
+.footerContainer{
+    background-color:#2b2121;
+    height: 30rem;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 50;
+    
+    }
+    
+    .footer{
+        background-color:#2b2121;
+        height: 80%;
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    
+    }
+    .logo{
+        width: 50%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 10%;
+        align-items: center;
+        
+    }
+    .klipImg{
+       
+        width: 2rem;
+        height: 2rem;
+        border-radius: 50%;
+    }
+    .titleKlip{
+        width: 80%;
+    color: white;
+    font-weight: bold ;
+    }
+    .divList{
+        width: 100%;
+        height: 40%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .list{
+        height: 10%;
+        width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    }
+    
+    .aLists{
+        width: 100%;
+       color: floralwhite;
+        text-decoration: none;
+    }
+    
+    .socialIcons{
+        
+       height: 30%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+    }
+    
+    .listSocial{
+        width: 40%;
+        height: 100%;
+        display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    }
+    
+    
+    .aSocial{
+        width: 100%;
+      font-size: 2rem;
+      text-decoration: none;
+      display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .fa-facebook{
+        width: 3rem;
+    }
+    .fa-brands{
+        color: greenyellow;
+    }
+    .footerCopyright{
+      
+    width: 90%;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .li{
+       
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    
+    @media only screen and (max-width: 750px) {
+    
+        .divList{
+          
+            width: 100%;
+            height: 60%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        
+        }
+    
+    
+        .list{
+            
+            height: 50%;
+            width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+        }
+    
+        
+        .li{
+           
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .aLists{
+           
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+           color: floralwhite;
+            text-decoration: none;
+        }
+    
+        .socialIcons{
+           
+            height: 30%;
+             width: 100%;
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
+             align-items: center;
+             list-style: none;
+         }
+         
+         .listSocial{
+        
+             width: 100%;
+             height: 5rem;
+             display: flex;
+         flex-direction: row;
+         justify-content: space-between;
+         align-items: center;
+         list-style: none;
+         }
+         
+         
+         .aSocial{
+          
+           font-size: 2rem;
+           width: 100%;
+           text-decoration: none;
+           display: flex;
+             flex-direction: column;
+             justify-content: center;
+             align-items: center;
+         }
+         .footerCopyright{
+                 width: 100%;
+                color: white;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+            
+    }
+  
+  

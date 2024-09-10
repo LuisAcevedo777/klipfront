@@ -1,0 +1,42 @@
+@import './footer.css';
+@import './loader.css';
+@import './/modal.css';
+@import './navbarC.css';
+@import './postList.css';
+@import './sectionOne.css';
+@import './sectionThree.css';
+@import './sectionTwo.css';
+
+
+#root {
+  width: 100vw;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: brown;
+}
+html, body {
+  width: 100%!important;
+  height: 100%;
+  overflow-x: hidden!important;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.principalContainer{
+  background-color: black;
+  width: 100vw;
+  min-height: 100vh;
+ 
+}
+
+.bar{
+
+  width: 100%;
+  height: 0.2%;
+  background-color: aqua;
+}
+
+
