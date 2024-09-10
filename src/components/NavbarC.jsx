@@ -1,6 +1,6 @@
 
 import {Nav, Navbar, Button,Container,Form, NavDropdown,Offcanvas} from 'react-bootstrap';
-
+import klipclub from '../public/klipclub.jpg'
 
 
 function NavbarC() {
@@ -9,7 +9,7 @@ function NavbarC() {
      
         <Navbar  key={'sm'} expand={'sm'} className="navbar top-0 ">
           <Container  fluid>
-          <Navbar.Brand href="#home" className='NavBrand ' > <div className='logoNav'><img className='imgKlipclub' src="../images/klipclub.jpg" alt="" /></div></Navbar.Brand>
+          <Navbar.Brand href="#home" className='NavBrand ' > <div className='logoNav'><img className='imgKlipclub' src={klipclub} alt="" /></div></Navbar.Brand>
             <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${'sm'} `} />
             <Navbar.Offcanvas
               

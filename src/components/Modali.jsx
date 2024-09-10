@@ -1,5 +1,5 @@
 import {useState} from 'react'
-
+import klipclub from '../public/klipclub.jpg'
 
 function Modali() {
 const[isOpen, setIsOpen]=useState(true)
@@ -23,7 +23,7 @@ setIsOpen(bol)
           </div>
           <div className="modal-body">
           
-            <img src="../images/klipclub.jpg" alt="" />
+            <img src={klipclub} alt="" />
             <div className='modalText'>
             <p className='p'>Ya puedes disfrutar del evento <br/> MUSIC VIBES WITH DJ <br /> AUZURA </p>
             <h5 className='h5Modal'>a few seconds ago </h5></div>
