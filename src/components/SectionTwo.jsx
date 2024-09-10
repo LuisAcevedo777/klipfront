@@ -17,17 +17,17 @@ function SectionTwo() {
 
 <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo ' src="../src/images/k.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo ' src="../images/k.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
 
   <div className='containerDivImg'>
   
-  <div className='divImgTwo'><img className='imgcarouselTwo' src="../src/images/a.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs OkiDoki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'><img className='imgcarouselTwo' src="../images/a.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs OkiDoki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
   
 <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/b.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/b.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
 
 </div>
@@ -40,17 +40,17 @@ function SectionTwo() {
 
 <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/l.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/l.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
 
   <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/h.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/h.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
   
 <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/c.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/c.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
 
 </div>
@@ -61,17 +61,17 @@ function SectionTwo() {
 
 <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/h.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/h.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
 
   <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/a.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/a.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
   
 <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/k.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/k.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
 
 </div>
@@ -82,17 +82,17 @@ function SectionTwo() {
 
 <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/l.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/l.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
 
   <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/b.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/b.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
   
 <div className='containerDivImg'>
   
-  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../src/images/h.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
+  <div className='divImgTwo'> <img className='imgcarouselTwo' src="../images/h.jpg" alt="klipimgs" /><span className='liveTwo'>LIVE</span></div><div><h3  style={{color: "white",fontSize: "50%", textAlign: "center"}} className='subtitleImage'>Karol G Performs  Oki Doki</h3><div className='tags'><div className='tagCont' ><span className='tag'>#pop</span><span className='tag' >#Rock</span><span className='tag'>#Jazz</span><span className='tag'>#salsa</span></div><span className='tag'>...</span>
   </div></div></div>
 
 </div>

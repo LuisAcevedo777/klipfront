@@ -55,14 +55,14 @@ function SectionThree() {
            <div className={seeArea ? 'accordion' : 'littleAccordion'} id="accordionExample" onMouseLeave={() => { seeForm(false) }} >
   <div className="accordion-item" >   {/*className=seeArea ? 'seeFormDivP' : 'littleAccordionItem'*/}
     <h2 className="accordion-header">
-    <div  className={seeArea ? 'collapseOnes' : 'accordion-buttons'}> <img className={seeArea ? 'hide' : 'imgKlipForm'} src="../src/images/klipclub.jpg" alt="image" />
+    <div  className={seeArea ? 'collapseOnes' : 'accordion-buttons'}> <img className={seeArea ? 'hide' : 'imgKlipForm'} src="../images/klipclub.jpg" alt="image" />
     <div  className="divText" onMouseOver={()=>seeForm(true)}>
        {seeArea ? '' : 'What are you thinking?'}
       </div></div>
     </h2>
     <div  className={seeArea ? 'accordion-collapse' : 'hide'} data-bs-parent="#accordionExample" >
       <div className="accordion-body">
-       <img className='imgKlipForm' src="../src/images/klipclub.jpg" alt="image" />
+       <img className='imgKlipForm' src="../images/klipclub.jpg" alt="image" />
 
       <form action="" className='form' /*onSubmit={handleSubmit(subChange)*/ encType='multipart/form-data' onSubmit={handleSubmit(onSubmit)}>
         <input type='text-Area' id='mensaje' name='mensaje'  className={seeArea ? 'seeFormTextArea' : 'textArea'} placeholder={seeArea ? 'Dale Doble Click aquí para ocultar!' : 'What are you thinking?'}  {...register('mensaje')} />
@@ -114,31 +114,31 @@ function SectionThree() {
 
               <div className='rankingTitle'>Trending</div>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol">Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol">Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
@@ -154,30 +154,30 @@ function SectionThree() {
               <div className='rankingTitle'>Trending</div>
               <li className="d-flex">
               
-              <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+              <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
@@ -191,31 +191,31 @@ function SectionThree() {
 
               <div className='rankingTitle'>Trending</div>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>
                 </Badge></li>
               <li className="d-flex">
-                <div className="fw-bold"><img className='imgList' src="../src/images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
+                <div className="fw-bold"><img className='imgList' src="../images/klipclub.jpg" alt="" /><h4 className="carol" >Karol G</h4></div>
 
                 <Badge className="primary" pill>
                   <i className="fa-solid fa-star"></i><h4 className="number">20K</h4>

@@ -8,7 +8,7 @@ function Footer() {
     
         
             <div className="logo">
-                <div><img className='klipImg' src="../src/images/klipclub.jpg" alt="imgKlip" /></div>
+                <div><img className='klipImg' src="../images/klipclub.jpg" alt="imgKlip" /></div>
                 <div className='divTitle'><h2 className='titleKlip'>KlipClub</h2></div>
             </div>
 
