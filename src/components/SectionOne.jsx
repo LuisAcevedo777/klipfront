@@ -1,5 +1,5 @@
 
-import imagenA from '../images/A.jpg'
+import imagenA from '../images/a.jpg'
 import imagenB from '../images/b.jpg'
 import imagenC from '../images/c.jpg'
 import klipclub from '../images/klipclub.jpg'
