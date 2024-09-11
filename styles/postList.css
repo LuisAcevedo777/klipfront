@@ -24,10 +24,12 @@ background-color: black;
 
 .figure{
   background-color: brown;
-  
   flex-direction: column;
   justify-content: center;
-  width:100%;
+  background-color: brown;
+  flex-direction: column;
+  justify-content: center;
+  width:40rem;
   height: auto;
   margin-bottom: 3rem;
 }

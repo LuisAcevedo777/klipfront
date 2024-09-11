@@ -58,7 +58,7 @@ function SectionThree() {
            <div className={seeArea ? 'accordion' : 'littleAccordion'} id="accordionExample" onMouseLeave={() => { seeForm(false) }} >
   <div className="accordion-item" >   
     <h2 className="accordion-header">
-    <div  className={seeArea ? 'collapseOnes' : 'accordion-buttons'}> <img className='imgKlipForm' src={klipclub} alt="image" />
+    <div  className={seeArea ? 'collapseOnes' : 'accordion-buttons'}> <img className={seeArea ? 'hide' : 'imgKlipForm'} src={klipclub} alt="image" />
     <div  className="divText" onMouseOver={()=>seeForm(true)}>
        {seeArea ? '' : 'What are you thinking?'}
       </div></div>
